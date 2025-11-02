@@ -46,22 +46,15 @@ A random number is generated and displayed as the user’s lucky number.
 Pressing “Share My Lucky Number” triggers an implicit intent, opening a chooser menu so the user can share the message through any app.
 
 🧩 File Structure
+
 app/
-
  └── src/
-
       └── main/
-
            ├── java/com/example/luckynumber/
-
            │    ├── MainActivity.java
-
            │    └── SecondActivity.java
-
            └── res/layout/
-
                 ├── activity_main.xml
-
                 └── activity_second.xml
 
 
