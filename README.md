@@ -47,15 +47,15 @@ Pressing “Share My Lucky Number” triggers an implicit intent, opening a choo
 
 🧩 File Structure
 
-app/
- └── src/
-      └── main/
-           ├── java/com/example/luckynumber/
-           │    ├── MainActivity.java
-           │    └── SecondActivity.java
-           └── res/layout/
-                ├── activity_main.xml
-                └── activity_second.xml
+           app/
+            └── src/
+                 └── main/
+                      ├── java/com/example/luckynumber/
+                      │    ├── MainActivity.java
+                      │    └── SecondActivity.java
+                      └── res/layout/
+                           ├── activity_main.xml
+                           └── activity_second.xml
 
 
 💡 Learning Purpose
